@@ -55,6 +55,8 @@ Synthesizers
 - [FB-3300](https://www.fullbucket.de/music/fb3300.html), [FB-3200](https://www.fullbucket.de/music/fb3200.html), [FB-3100](https://www.fullbucket.de/music/fb3100.html) - Based on the very rare [Korg PS-3300](https://en.wikipedia.org/wiki/Korg_PS-3300) and its siblings. Microtuning via GUI. _VST2 (Mac, Win) / AU (Mac)_
 - [Fury-800](https://www.fullbucket.de/music/fury800.html) - Based on the [Korg Poly-800](https://en.wikipedia.org/wiki/Korg_Poly-800). _VST2 (Mac, Win) / AU (Mac)_
 - [VK-1 Viking Synthesizer](https://blamsoft.com/vst/vk-1-viking-synthesizer/) - Hardware model of a "classic monophonic analog synthesizer".  _VST2 (Mac, Win)_
+- [Crystal](http://www.greenoak.com/crystal/dnld2.html) - Semi-modular synth featuring both subtractive and FM synthesis, with built-in effects and .sf2 [SoundFont](https://en.wikipedia.org/wiki/SoundFont) support. _VST2 (Mac, Win) / AU (Mac)_
+- [PG-8X](https://sites.google.com/site/mlvst0/) - Based on the [Roland JX-8P](https://en.wikipedia.org/wiki/Roland_JX-8P). _VST2 (Mac, Win)_
 
 Chiptune / Video game synths
 ----------------------------
@@ -85,6 +87,7 @@ Reverb
 ------
 
 - :star: [Freeverb3VST](https://freeverb3vst.osdn.jp) - An entire suite of reverb plugins, both algorithmic and convolution. Includes the great Hibiki Reverb. _VST2 (Mac, Win)_
+- :star: [Dragonfly Reverb](https://github.com/michaelwillis/dragonfly-reverb) - A bundle of four reverbs based on the Freeverb3 project, but with a more modern interface. _VST2/LV2 (Mac, Win, Linux)_
 - [OrilRiver](https://www.kvraudio.com/product/orilriver-by-denis-tihanov) - Algorithmic stereo reverb. _VST3/VST2 (Mac, Win), AU (Mac (experimental))_
 - [ValhallaSupermassive](https://valhalladsp.com/shop/modulation/valhalla-supermassive/) - Massive reverb/echo effect. _VST3/VST2/AAX (Mac, Win), AU (Mac)_
 - [TAL-Reverb-4](https://www.kvraudio.com/product/tal-reverb-4-by-togu-audio-line) - Vintage reverb.  _VST3/AAX (Mac, Win) / VST2 (Mac, Win, Linux (experimental)) / AU (Mac)_
@@ -136,3 +139,4 @@ Utilities
 =========
 
 - :star: [Element](https://github.com/kushview/Element) - Modular plugin host with advanced routing options. Note: This software is free and open source, but has a subscription model for much earlier access to binary builds. The most recent freely available build at the time of writing is [0.41.1](https://github.com/kushview/Element/releases/tag/0.41.1). _VST3 (Mac, Win, Linux), VST2 (Mac, Win), AU (Mac), LV2/LADSPA (Linux)_
+- :star: [SPAN](https://www.voxengo.com/product/span/) - FFT spectrum analyzer. _VST3/VST2/AAX (Win, Mac), AU (Mac)_
