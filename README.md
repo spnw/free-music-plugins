@@ -90,7 +90,7 @@ Reverb
 - :star: [Dragonfly Reverb](https://github.com/michaelwillis/dragonfly-reverb) - A bundle of four reverbs based on the Freeverb3 project, but with a more modern interface. _VST2/LV2 (Mac, Win, Linux)_
 - [OrilRiver](https://www.kvraudio.com/product/orilriver-by-denis-tihanov) - Algorithmic stereo reverb. _VST3/VST2 (Mac, Win), AU (Mac (experimental))_
 - [ValhallaSupermassive](https://valhalladsp.com/shop/modulation/valhalla-supermassive/) - Massive reverb/echo effect. _VST3/VST2/AAX (Mac, Win), AU (Mac)_
-- [TAL-Reverb-4](https://www.kvraudio.com/product/tal-reverb-4-by-togu-audio-line) - Vintage reverb.  _VST3/AAX (Mac, Win) / VST2 (Mac, Win, Linux (experimental)) / AU (Mac)_
+- [TAL-Reverb-4](https://tal-software.com/products/tal-reverb-4) - Vintage reverb.  _VST3/AAX (Mac, Win) / VST2 (Mac, Win, Linux (experimental)) / AU (Mac)_
 
 Delay / Modulation
 ------------------
@@ -107,18 +107,22 @@ EQ
 
 - :star: [Luftikus](https://www.kvraudio.com/product/luftikus-by-lkjb) - Analog style EQ. _VST3/VST2 (Mac, Win) / AU (Mac)_
 - [QRange](https://www.kvraudio.com/product/qrange-by-lkjb) - 12-band IIR linear phase EQ. _VST3/VST2 (Mac, Win) / AU (Mac)_
+- [TDR VOS SlickEQ](https://www.tokyodawn.net/tdr-vos-slickeq/) - 3-band mixing/mastering EQ with four saturation models. _VST3/VST2/AAX (Mac, Win) / AU (Mac)_
+- [TDR Nova](https://www.tokyodawn.net/tdr-nova/) - Parallel dynamic EQ. _VST3/VST2/AAX (Mac, Win) / AU (Mac)_
 
 Compressors / Limiters
 ----------------------
 
 - [Molot](https://www.kvraudio.com/product/molot-by-vladg-sound) - Flexible character compressor. _VST2 (Mac, Win), AU (Mac)_
+- [TDR Molotok](https://www.tokyodawn.net/tdr-molotok/) - Simplified version of Molot's paid successor, [TDR Molot GE](https://www.tokyodawn.net/tdr-molot-ge/). _VST3/VST2/AAX (Mac, Win) / AU (Mac)_
 - [DC1A](https://klanghelm.com/contents/products/DC1A.php) - Two-knob character compressor. _VST3/VST2/AAX (Mac, Win), AU (Mac)_
 - [Limiter No6](https://www.kvraudio.com/product/limiter-no6-by-vladg-sound) - Modular mastering limiter. _VST2 (Mac, Win), AU (Mac)_
+- [TDR Kotelnikov](https://www.tokyodawn.net/tdr-kotelnikov/) - Wideband dynamics processor. _VST3/VST2/AAX (Mac, Win) / AU (Mac)_
 
 Distortion / Saturation
 -----------------------
 
-- :star: [Temper](https://www.creativeintent.co/product/temper) - Distortion with variable saturation curve and resonant lowpass filter. _VST3/VST2/AAX (Mac, Win)_
+- :star: [Temper](https://www.creativeintent.co/product/temper) - Distortion with variable saturation curve and resonant lowpass filter. _VST3/VST2/AAX (Mac, Win), AU (Mac)_
 - :star: [ChowTape](https://github.com/jatinchowdhury18/AnalogTapeModel) - Physical model of an analog tape machine. _VST3/VST2 (Mac, Win, [Linux](https://build.opensuse.org/package/show/home:kill_it:JUCE/CHOWTapeModel)), AU (Mac), LV2 (Linux)_
 - :star: [ChowCentaur](https://github.com/jatinchowdhury18/KlonCentaur) - Circuit model of the [Klon Centaur](https://en.wikipedia.org/wiki/Klon_Centaur) overdrive pedal. _VST3/VST2 (Mac, Win, [Linux](https://build.opensuse.org/package/show/home:kill_it:JUCE/ChowCentaur)), AU (Mac), LV2 (Linux). Requires macOS 10.15+_
 
