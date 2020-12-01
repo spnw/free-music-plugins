@@ -92,7 +92,8 @@ Reverb
 Delay / Modulation
 ------------------
 - :star: [PitchedDelay](https://www.kvraudio.com/product/pitcheddelay-by-lkjb) - Multitap delay which allows pitch shifting both inside and outside the feedback loop.  _VST3/VST2 (Mac, Win) / AU (Mac)_
-- :star: [CHOW Phaser](https://github.com/jatinchowdhury18/ChowPhaser) - Phaser "based _very_ loosely" on the classic Shulte Compact Phasing "A". _VST3/VST2 (Mac, Win, [Linux](https://build.opensuse.org/package/show/home:kill_it:JUCE/ChowPhaser)), AU (Mac), LV2 (Linux)_
+- :star: [ChowPhaser](https://github.com/jatinchowdhury18/ChowPhaser) - Phaser "based _very_ loosely" on the classic Shulte Compact Phasing "A". _VST3/VST2 (Mac, Win, [Linux](https://build.opensuse.org/package/show/home:kill_it:JUCE/ChowPhaser)), AU (Mac), LV2 (Linux)_
+- :star: [ChowMatrix](https://github.com/Chowdhury-DSP/ChowMatrix) - Delay using an infinitely growable tree of delay lines. _VST3/VST2 (Mac, Win), AU (Mac)_
 - [Full Bucket Brigade Delay](https://www.fullbucket.de/music/fbdelay.html) - Analog bucket-brigade delay (BBD). _VST2 (Mac, Win) / AU (Mac)_
 - [ValhallaFreqEcho](https://valhalladsp.com/shop/modulation/valhalla-freq-echo/) - Analog echo with Bode-style frequency shifter. _VST3/VST2/AAX (Mac, Win), AU (Mac)_
 - [ValhallaSpaceModulator](https://valhalladsp.com/shop/modulation/valhalla-space-modulator/) - A very flexible flanger. _VST3/VST2/AAX (Mac, Win), AU (Mac)_
@@ -115,7 +116,8 @@ Distortion / Saturation
 -----------------------
 
 - :star: [Temper](https://www.creativeintent.co/product/temper) - Distortion with variable saturation curve and resonant lowpass filter. _VST3/VST2/AAX (Mac, Win)_
-- :star: [CHOW Tape Model](https://github.com/jatinchowdhury18/AnalogTapeModel) - Physical model of an analog tape machine. _VST3/VST2 (Mac, Win, [Linux](https://build.opensuse.org/package/show/home:kill_it:JUCE/CHOWTapeModel)), AU (Mac), LV2 (Linux)_
+- :star: [ChowTape](https://github.com/jatinchowdhury18/AnalogTapeModel) - Physical model of an analog tape machine. _VST3/VST2 (Mac, Win, [Linux](https://build.opensuse.org/package/show/home:kill_it:JUCE/CHOWTapeModel)), AU (Mac), LV2 (Linux)_
+- :star: [ChowCentaur](https://github.com/jatinchowdhury18/KlonCentaur) - Circuit model of the [Klon Centaur](https://en.wikipedia.org/wiki/Klon_Centaur) overdrive pedal. _VST3/VST2 (Mac, Win, [Linux](https://build.opensuse.org/package/show/home:kill_it:JUCE/ChowCentaur)), AU (Mac), LV2 (Linux)_
 
 Vocoders
 --------
