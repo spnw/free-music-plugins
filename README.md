@@ -143,4 +143,4 @@ Utilities
 =========
 
 - :star: [Element](https://github.com/kushview/Element) - Modular plugin host with advanced routing options. Note: This software is free and open source, but has a subscription model for much earlier access to binary builds. The most recent freely available build at the time of writing is [0.41.1](https://github.com/kushview/Element/releases/tag/0.41.1). _VST3 (Mac, Win, Linux), VST2 (Mac, Win), AU (Mac), LV2/LADSPA (Linux)_
-- :star: [SPAN](https://www.voxengo.com/product/span/) - FFT spectrum analyzer. _VST3/VST2/AAX (Win, Mac), AU (Mac)_
+- [SPAN](https://www.voxengo.com/product/span/) - FFT spectrum analyzer. _VST3/VST2/AAX (Win, Mac), AU (Mac)_
