@@ -26,6 +26,7 @@ any compatibility problems._
     - [Synthesizers](#synthesizers)
     - [Chiptune / Video game synths](#chiptune--video-game-synths)
     - [Vocal synths](#vocal-synths)
+    - [Drum synths](#drum-synths)
     - [Samplers](#samplers)
 - [Effects](#effects)
     - [Reverb](#reverb)
