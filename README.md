@@ -57,6 +57,7 @@ Synthesizers
 - [VK-1 Viking Synthesizer](https://blamsoft.com/vst/vk-1-viking-synthesizer/) - Hardware model of a "classic monophonic analog synthesizer".  _VST2 (Mac, Win)_
 - [Crystal](http://www.greenoak.com/crystal/dnld2.html) - Semi-modular synth featuring both subtractive and FM synthesis, with built-in effects and .sf2 [SoundFont](https://en.wikipedia.org/wiki/SoundFont) support. _VST2 (Mac, Win) / AU (Mac)_
 - [PG-8X](https://sites.google.com/site/mlvst0/) - Based on the [Roland JX-8P](https://en.wikipedia.org/wiki/Roland_JX-8P). _VST2 (Mac, Win)_
+- [Triple Cheese](https://u-he.com/products/triplecheese/) - Synth with a unique synthesis approach using [comb filters](https://en.wikipedia.org/wiki/Comb_filter). _VST2 (Mac, Win, Linux (beta)), AU (Mac)_
 
 Chiptune / Video game synths
 ----------------------------
@@ -73,6 +74,11 @@ Vocal synths
 - :star: [Socalabs Voc](https://socalabs.com/synths/voc-vocal-synth/) - Simple synth emulating the glottis and shape of the vocal tract. _VST2 (Mac, Win, Linux), AU (Mac)_
 - [Alter/Ego](https://www.plogue.com/products/alter-ego.html) - Real-time singing synth with several free voices available for download. _VST3/VST2/AAX (Mac, Win) / AU (Mac)_
 - [VST Speek](https://blog.wavosaur.com/text-to-speech-vst-vst-speek/) - Text-to-speech synth based on [S.A.M.](https://en.wikipedia.org/wiki/Software_Automatic_Mouth) for the Commodore 64. _VST2 ([Mac](https://blog.wavosaur.com/text-to-speech-vst-now-for-mac-vst-speek-au-speek-audiounit/), Windows, [Linux (beta)](https://blog.wavosaur.com/vst-speek-beta-for-linux/)) / AU (Mac)_
+
+Drum synths
+-----------
+
+- [Bucket Pops](https://www.fullbucket.de/music/bucketpops.html) - Emulation of the [Korg Mini Pops 7](https://en.wikipedia.org/wiki/Korg_Mini_Pops) drum machine with multi-outs and built-in sequencer. _VST2 (Mac, Win) / AU (Mac)_
 
 Samplers
 --------
@@ -116,6 +122,7 @@ Compressors / Limiters
 - [Molot](https://www.kvraudio.com/product/molot-by-vladg-sound) - Flexible character compressor. _VST2 (Mac, Win), AU (Mac)_
 - [TDR Molotok](https://www.tokyodawn.net/tdr-molotok/) - Simplified version of Molot's paid successor, [TDR Molot GE](https://www.tokyodawn.net/tdr-molot-ge/). _VST3/VST2/AAX (Mac, Win) / AU (Mac)_
 - [DC1A](https://klanghelm.com/contents/products/DC1A.php) - Two-knob character compressor. _VST3/VST2/AAX (Mac, Win), AU (Mac)_
+- [MJUC jr.](https://klanghelm.com/contents/products/MJUCjr.php) - Variable-mu compressor. _VST3/VST2/AAX (Mac, Win), AU (Mac)_
 - [Limiter No6](https://www.kvraudio.com/product/limiter-no6-by-vladg-sound) - Modular mastering limiter. _VST2 (Mac, Win), AU (Mac)_
 - [TDR Kotelnikov](https://www.tokyodawn.net/tdr-kotelnikov/) - Wideband dynamics processor. _VST3/VST2/AAX (Mac, Win) / AU (Mac)_
 
@@ -125,6 +132,7 @@ Distortion / Saturation
 - :star: [Temper](https://www.creativeintent.co/product/temper) - Distortion with variable saturation curve and resonant lowpass filter. _VST3/VST2/AAX (Mac, Win), AU (Mac)_
 - :star: [ChowTape](https://github.com/jatinchowdhury18/AnalogTapeModel) - Physical model of an analog tape machine. _VST3/VST2 (Mac, Win, [Linux](https://build.opensuse.org/package/show/home:kill_it:JUCE/CHOWTapeModel)), AU (Mac), LV2 (Linux)_
 - :star: [ChowCentaur](https://github.com/jatinchowdhury18/KlonCentaur) - Circuit model of the [Klon Centaur](https://en.wikipedia.org/wiki/Klon_Centaur) overdrive pedal. _VST3/VST2 (Mac, Win, [Linux](https://build.opensuse.org/package/show/home:kill_it:JUCE/ChowCentaur)), AU (Mac), LV2 (Linux). Requires macOS 10.15+_
+- [IVGI](https://klanghelm.com/contents/products/IVGI.php) - Mixing desk saturation. _VST3/VST2/AAX (Mac, Win), AU (Mac)_
 
 Vocoders
 --------
@@ -143,4 +151,6 @@ Utilities
 =========
 
 - :star: [Element](https://github.com/kushview/Element) - Modular plugin host with advanced routing options. Note: This software is free and open source, but has a subscription model for much earlier access to binary builds. The most recent freely available build at the time of writing is [0.41.1](https://github.com/kushview/Element/releases/tag/0.41.1). _VST3 (Mac, Win, Linux), VST2 (Mac, Win), AU (Mac), LV2/LADSPA (Linux)_
+- :star: [S(m)exoscope](https://github.com/bdejong/smartelectronix) - Oscilloscope with four retrigger modes. _[VST2 (Mac, Win)](https://dl.bintray.com/bdejong/Plugins/)_
+- :star: [Socalabs Maths](https://socalabs.com/developer-tools/maths/) - Run mathematical formulas on stereo channels. _VST2 (Mac, Win, Linux), AU (Mac)_
 - [SPAN](https://www.voxengo.com/product/span/) - FFT spectrum analyzer. _VST3/VST2/AAX (Win, Mac), AU (Mac)_
