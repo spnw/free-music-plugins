@@ -105,6 +105,7 @@ Delay / Modulation
 - :star: [ChowPhaser](https://github.com/jatinchowdhury18/ChowPhaser) - Phaser "based _very_ loosely" on the classic Shulte Compact Phasing "A". _VST3/VST2 (Mac, Win, [Linux](https://build.opensuse.org/package/show/home:kill_it:JUCE/ChowPhaser)), AU (Mac), LV2 (Linux). Requires macOS 10.14+_
 - :star: [ChowMatrix](https://github.com/Chowdhury-DSP/ChowMatrix) - Delay using an infinitely growable tree of delay lines. _VST3/VST2 (Mac, Win), AU (Mac)_
 - [Full Bucket Brigade Delay](https://www.fullbucket.de/music/fbdelay.html) - Analog bucket-brigade delay (BBD). _VST2 (Mac, Win) / AU (Mac)_
+- [Full Bucket Phaser](https://www.fullbucket.de/music/fbphaser.html) - Analog phaser. _VST2 (Mac, Win) / AU (Mac)_
 - [ValhallaFreqEcho](https://valhalladsp.com/shop/modulation/valhalla-freq-echo/) - Analog echo with Bode-style frequency shifter. _VST3/VST2/AAX (Mac, Win), AU (Mac)_
 - [ValhallaSpaceModulator](https://valhalladsp.com/shop/modulation/valhalla-space-modulator/) - A very flexible flanger. _VST3/VST2/AAX (Mac, Win), AU (Mac)_
 - [TAL-Chorus-LX](https://tal-software.com/products/tal-chorus-lx) - Chorus inspired by the [Juno-60](https://en.wikipedia.org/wiki/Roland_Juno-60). _VST3/AAX (Mac, Win) / VST2 (Mac, Win, Linux (experimental)) / AU (Mac)_
@@ -134,6 +135,7 @@ Distortion / Saturation
 - :star: [ChowTape](https://github.com/jatinchowdhury18/AnalogTapeModel) - Physical model of an analog tape machine. _VST3/VST2 (Mac, Win, [Linux](https://build.opensuse.org/package/show/home:kill_it:JUCE/CHOWTapeModel)), AU (Mac), LV2 (Linux)_
 - :star: [ChowCentaur](https://github.com/jatinchowdhury18/KlonCentaur) - Circuit model of the [Klon Centaur](https://en.wikipedia.org/wiki/Klon_Centaur) overdrive pedal. _VST3/VST2 (Mac, Win, [Linux](https://build.opensuse.org/package/show/home:kill_it:JUCE/ChowCentaur)), AU (Mac), LV2 (Linux). Requires macOS 10.15+_
 - [IVGI](https://klanghelm.com/contents/products/IVGI.php) - Mixing desk saturation. _VST3/VST2/AAX (Mac, Win), AU (Mac)_
+- [Tube Amp](https://www.voxengo.com/product/tubeamp/) - Single-tube microphone pre-amp saturation. _VST3/VST2/AAX (Mac, Win), AU (Mac)_
 
 Vocoders
 --------
@@ -154,4 +156,5 @@ Utilities
 - :star: [Element](https://github.com/kushview/Element) - Modular plugin host with advanced routing options. Note: This software is free and open source, but has a subscription model for much earlier access to binary builds. The most recent freely available build at the time of writing is [0.41.1](https://github.com/kushview/Element/releases/tag/0.41.1). _VST3 (Mac, Win, Linux), VST2 (Mac, Win), AU (Mac), LV2/LADSPA (Linux)_
 - :star: [S(m)exoscope](https://github.com/bdejong/smartelectronix) - Oscilloscope with four retrigger modes. _[VST2 (Mac, Win)](https://dl.bintray.com/bdejong/Plugins/)_
 - :star: [Socalabs Maths](https://socalabs.com/developer-tools/maths/) - Run mathematical formulas on stereo channels. _VST2 (Mac, Win, Linux), AU (Mac)_
-- [SPAN](https://www.voxengo.com/product/span/) - FFT spectrum analyzer. _VST3/VST2/AAX (Win, Mac), AU (Mac)_
+- [SPAN](https://www.voxengo.com/product/span/) - FFT spectrum analyzer. _VST3/VST2/AAX (Mac, Win), AU (Mac)_
+- [Latency Delay](https://www.voxengo.com/product/latencydelay/) - Manual latency compensation delay. _VST3/VST2/AAX (Mac, Win), AU (Mac)_
