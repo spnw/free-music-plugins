@@ -27,6 +27,7 @@ any compatibility problems._
     - [Chiptune / Video game synths](#chiptune--video-game-synths)
     - [Vocal synths](#vocal-synths)
     - [Drum synths](#drum-synths)
+    - [Utility synths](#utility-synths)
     - [Samplers](#samplers)
 - [Effects](#effects)
     - [Reverb](#reverb)
@@ -80,6 +81,11 @@ Drum synths
 -----------
 
 - [Bucket Pops](https://www.fullbucket.de/music/bucketpops.html) - Emulation of the [Korg Mini Pops 7](https://en.wikipedia.org/wiki/Korg_Mini_Pops) drum machine with multi-outs and built-in sequencer. _VST2 (Mac, Win) / AU (Mac)_
+
+Utility synths
+---------------
+
+- :star: [Tuning Workbench Synth](https://surge-synth-team.org/tuning-workbench-synth/) - A synth which lets you experiment with tunings in real time. Currently in late alpha / early beta. Microtuning via .scl/.kbm files and built-in editor. _VST3 (Mac, Win, Linux) / AU (Mac)_
 
 Samplers
 --------
@@ -146,6 +152,7 @@ Vocoders
 MIDI
 ====
 
+- :star: [Stochas](https://stochas.org/) - Advanced probabilistic polyrhythmic sequencer. _VST3 (Mac, Win, Linux) / AU (Mac)_
 - [hypercyclic](https://www.mucoder.net/en/hypercyclic/) - LFO-driven, MIDI-mangling arpeggiator. _VST2 (Win, Linux), AU (Mac)_
 - [tonespace](https://www.mucoder.net/en/tonespace/) - Chord generator and visualizer. _VST2 (Win, Linux), AU (Mac)_
 
