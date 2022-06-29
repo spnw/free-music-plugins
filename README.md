@@ -1,3 +1,5 @@
+## NOTE: This project is deprecated. Check out its successor [here](https://plexwave.org/free-plugins).
+
 # Free Music Plugins
 
 This is a list of free audio and MIDI plugins for music production,
